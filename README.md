@@ -67,6 +67,7 @@ See the LICENSE file for details. Dataset sourced from Roboflow under CC BY 4.0.
 - Link: https://universe.roboflow.com/skripsi-aji/klasifikasi-sampah-organik-dan-anorganik/dataset/35
 
 ## Catatan
+- Notebook: https://colab.research.google.com/drive/1gK8RAOlisLqzVyOgGLH4jzO0M7eKBas_
 - File Besar: File trash_classifier_model.pkl melebihi 100 MB, file ini tidak ada di repo langsung. Unduh dari Link Google Drive: https://drive.google.com/file/d/1RCSbVDj6brzm2aKvQANTinoG71MbgYnA/view?usp=sharing
 - Ukuran Model: Model dummy dilatih dengan subset data 5000 sample. Untuk versi produksi, latih ulang dengan dataset penuh.
 - Kontak: Hubungi farellkurniawan17108@gmail.com untuk pertanyaan atau bantuan teknis.
